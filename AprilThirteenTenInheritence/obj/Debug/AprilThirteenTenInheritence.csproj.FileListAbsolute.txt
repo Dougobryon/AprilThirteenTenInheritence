@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilThirteenTenInheritence\AprilThirteenTenInheritence\bin\Debug\AprilThirteenTenInheritence.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilThirteenTenInheritence\AprilThirteenTenInheritence\obj\Debug\AprilThirteenTenInheritence.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilThirteenTenInheritence\AprilThirteenTenInheritence\bin\Debug\AprilThirteenTenInheritence.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilThirteenTenInheritence\AprilThirteenTenInheritence\bin\Debug\AprilThirteenTenInheritence.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilThirteenTenInheritence\AprilThirteenTenInheritence\obj\Debug\AprilThirteenTenInheritence.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilThirteenTenInheritence\AprilThirteenTenInheritence\obj\Debug\AprilThirteenTenInheritence.pdb
